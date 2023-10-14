@@ -23,15 +23,15 @@
                     <h3 class="text-primary"><strong>Register Now</strong></h3>
                 </div>
                 <div class="mb-3">
-                    <label for="email" class="form-label">Email</label>
+                    <label for="email" class="form-label">Email :</label>
                     <input type="email" class="form-control" id="email">
                 </div>
                 <div class="mb-3">
-                    <label for="password" class="form-label">Password</label>
+                    <label for="password" class="form-label">Password :</label>
                     <input type="password" class="form-control" id="password">
                 </div>
                 <div class="mb-3">
-                    <label for="confirm_password" class="form-label">Confirm Password</label>
+                    <label for="confirm_password" class="form-label">Confirm Password :</label>
                     <input type="password" class="form-control" id="confirm_password">
                 </div>
                 <div class="mb-3 form-check">
