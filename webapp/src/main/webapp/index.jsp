@@ -20,10 +20,10 @@
         <div class="row justify-content-md-center">
             <form class="col-md-6 col-sm-12 bg-white p-5 rounded shadow">
                 <div class="col-12 text-center">
-                    <h3 class="text-primary"><strong>Register Now</strong></h3>
+                    <h3 class="text-primary"><strong>Register</strong></h3>
                 </div>
                 <div class="mb-3">
-                    <label for="email" class="form-label">Email Address:</label>
+                    <label for="email" class="form-label">Address:</label>
                     <input type="email" class="form-control" id="email">
                 </div>
                 <div class="mb-3">
